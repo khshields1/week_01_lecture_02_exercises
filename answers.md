@@ -21,5 +21,5 @@ This is the correct HTML because it has tags for the image, an article, and unor
 7. c) Do the best it can, but the page might not look the way it is intended
 8. b) A void tag has no content
 9. a) <div class="large" class="important" class="sparkly"></div>
-
+10. b) sibling
 
