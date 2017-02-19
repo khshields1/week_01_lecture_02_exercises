@@ -20,3 +20,6 @@ This is the correct HTML because it has tags for the image, an article, and unor
 6. a) Provide an alternate link for the href attribute if the primary link goes nowhere
 7. c) Do the best it can, but the page might not look the way it is intended
 8. b) A void tag has no content
+9. a) <div class="large" class="important" class="sparkly"></div>
+
+
