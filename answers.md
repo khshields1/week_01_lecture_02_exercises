@@ -17,3 +17,6 @@ Week 01_Lecture_02 Quiz
     <h5></h5>
   </div>
 This is the correct HTML because it has tags for the image, an article, and unordered list, and option a) does not have these and could not create the website that is displayed.
+6. a) Provide an alternate link for the href attribute if the primary link goes nowhere
+
+
