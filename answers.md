@@ -18,5 +18,5 @@ Week 01_Lecture_02 Quiz
   </div>
 This is the correct HTML because it has tags for the image, an article, and unordered list, and option a) does not have these and could not create the website that is displayed.
 6. a) Provide an alternate link for the href attribute if the primary link goes nowhere
-
+7. c) Do the best it can, but the page might not look the way it is intended
 
